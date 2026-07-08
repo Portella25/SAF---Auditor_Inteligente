@@ -48,7 +48,13 @@ O SAF foi desenhado para transformar essa análise em um processo replicável, r
 - API para integração com ERP, Google Drive, sistemas internos e rotinas ETL;
 - gancho pronto para integração com LLM e serviços de IA externos.
 
-## Stack Técnica
+## Captura do Sistema
+
+Abaixo uma visao do painel principal em operacao, com resumo executivo, comparativo por transportadora, filtros, historico e leitura rapida dos indicadores:
+
+![Painel principal do SAF](assets/saf-dashboard.png)
+
+## Stack Tecnica
 
 - Python 3.11+
 - Pandas para conciliação tabular e regras de negócio
@@ -495,3 +501,6 @@ Em uma rotina real, a solução deve permitir que um analista:
 - mantenha histórico por lote para auditoria interna;
 - integre novas fontes de dados sem reescrever o motor de negócio;
 - amplie o uso com IA sem comprometer a regra principal.
+
+O SAF foi estruturado para sair do nivel de demonstracao visual e entrar no nivel de operacao assistida por dados, com profundidade suficiente para refletir um fluxo que existe de verdade dentro de uma empresa.
+
