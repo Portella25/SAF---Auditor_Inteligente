@@ -1,0 +1,26 @@
+[project]
+name = "saf-auditoria-fretes"
+version = "1.0.0"
+description = "Sistema de Auditoria de Fretes e Faturas para conciliacao financeira/logistica."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2.0",
+    "pydantic>=2.7.0",
+    "streamlit>=1.36.0",
+    "openpyxl>=3.1.0",
+    "fastapi>=0.115.0",
+    "uvicorn>=0.30.0",
+    "requests>=2.32.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

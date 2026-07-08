@@ -1,0 +1,528 @@
+﻿pedido_id,chave_nfe,evento,data_evento,descricao,responsavel
+PED000001,42250569380459013225550010000000011039993151,Coleta Realizada,2025-05-22 18:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000001,42250569380459013225550010000000011039993151,Em Transito,2025-05-23 07:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000001,42250569380459013225550010000000011039993151,Chegada Filial Destino,2025-05-24 09:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Carlos Lima - Motorista
+PED000001,42250569380459013225550010000000011039993151,Saida para Entrega,2025-05-25 02:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000001,42250569380459013225550010000000011039993151,Entregue,2025-05-25 10:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Ana Ferreira - Atendimento
+PED000002,31250557886405498129550020000000021208681053,Coleta Realizada,2025-06-08 08:00:00,Mercadoria coletada no remetente conforme romaneio.,Ana Ferreira - Atendimento
+PED000002,31250557886405498129550020000000021208681053,Em Transito,2025-06-09 07:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000002,31250557886405498129550020000000021208681053,Chegada Filial Destino,2025-06-09 11:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000002,31250557886405498129550020000000021208681053,Avaria Constatada,2025-06-10 16:00:00,"Avaria identificada na conferencia de recebimento, registrado boletim de ocorrencia interno.",Sistema TMS
+PED000003,41250521091231351059550030000000031393497229,Coleta Realizada,2025-06-26 07:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000003,41250521091231351059550030000000031393497229,Em Transito,2025-06-26 12:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000003,41250521091231351059550030000000031393497229,Chegada Filial Destino,2025-06-26 21:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Marcia Souza - CD Destino
+PED000003,41250521091231351059550030000000031393497229,Extravio de Carga,2025-06-27 01:00:00,"Carga nao localizada no centro de distribuicao, aberta investigacao.",Sistema EDI
+PED000004,29250549120194761687550020000000041853201215,Coleta Realizada,2025-06-03 18:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000004,29250549120194761687550020000000041853201215,Em Transito,2025-06-03 21:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000004,29250549120194761687550020000000041853201215,Chegada Filial Destino,2025-06-04 00:00:00,sem informacao,Ana Ferreira - Atendimento
+PED000004,29250549120194761687550020000000041853201215,Saida para Entrega,2025-06-04 12:00:00,-,Joao Pereira - Operacoes
+PED000004,29250549120194761687550020000000041853201215,Entregue,2025-06-04 18:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Ana Ferreira - Atendimento
+PED000005,33250647990615481847550030000000051923635348,Coleta Realizada,2025-05-18 09:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000005,33250647990615481847550030000000051923635348,Em Transito,2025-05-19 14:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000005,33250647990615481847550030000000051923635348,Chegada Filial Destino,2025-05-19 19:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Carlos Lima - Motorista
+PED000005,33250647990615481847550030000000051923635348,Saida para Entrega,2025-05-20 12:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema EDI
+PED000005,33250647990615481847550030000000051923635348,Tentativa de Entrega Nao Sucedida,2025-05-20 22:00:00,Destinatario ausente no endereco informado.,Sistema TMS
+PED000005,33250647990615481847550030000000051923635348,Entregue,2025-05-21 21:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema EDI
+PED000006,42250665682100207281550030000000061615860532,Coleta Realizada,2025-06-09 05:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000006,42250665682100207281550030000000061615860532,Em Transito,2025-06-10 01:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000006,42250665682100207281550030000000061615860532,Chegada Filial Destino,2025-06-10 04:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000006,42250665682100207281550030000000061615860532,Saida para Entrega,2025-06-10 22:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema EDI
+PED000006,42250665682100207281550030000000061615860532,Entregue,2025-06-12 02:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema TMS
+PED000007,42250631509667157813550030000000071214724206,Coleta Realizada,2025-06-12 10:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000007,42250631509667157813550030000000071214724206,Em Transito,2025-06-13 07:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000008,43250625699566509423550020000000081583532042,Coleta Realizada,2025-05-23 00:00:00,Mercadoria coletada no remetente conforme romaneio.,Ana Ferreira - Atendimento
+PED000008,43250625699566509423550020000000081583532042,Em Transito,2025-05-23 21:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000008,43250625699566509423550020000000081583532042,Chegada Filial Destino,2025-05-25 03:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Joao Pereira - Operacoes
+PED000008,43250625699566509423550020000000081583532042,Saida para Entrega,2025-05-26 00:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema EDI
+PED000008,43250625699566509423550020000000081583532042,Entregue,2025-05-27 05:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema TMS
+PED000009,29250562622595750269550010000000091723942278,Coleta Realizada,2025-05-28 08:00:00,Mercadoria coletada no remetente conforme romaneio.,Ana Ferreira - Atendimento
+PED000009,29250562622595750269550010000000091723942278,Em Transito,2025-05-29 13:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000009,29250562622595750269550010000000091723942278,Chegada Filial Destino,2025-05-30 09:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000009,29250562622595750269550010000000091723942278,Extravio de Carga,2025-05-30 16:00:00,"Carga nao localizada no centro de distribuicao, aberta investigacao.",Sistema EDI
+PED000010,42250584971920913093550010000000101172324107,Coleta Realizada,2025-06-08 19:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000010,42250584971920913093550010000000101172324107,Em Transito,2025-06-08 23:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000010,42250584971920913093550010000000101172324107,Avaria Constatada,2025-06-10 04:00:00,verificar depois,Ana Ferreira - Atendimento
+PED000011,43250673541969148340550010000000111332733283,Coleta Realizada,2025-05-23 15:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000011,43250673541969148340550010000000111332733283,Em Transito,2025-05-23 18:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000011,43250673541969148340550010000000111332733283,Chegada Filial Destino,2025-05-24 12:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Ana Ferreira - Atendimento
+PED000011,43250673541969148340550010000000111332733283,Saida para Entrega,2025-05-25 03:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema EDI
+PED000011,43250673541969148340550010000000111332733283,Entregue,2025-05-26 00:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema TMS
+PED000012,35250682357618365715550010000000121373765857,Coleta Realizada,2025-05-08 12:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000012,35250682357618365715550010000000121373765857,Em Transito,2025-05-08 17:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000012,35250682357618365715550010000000121373765857,Chegada Filial Destino,2025-05-09 08:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000012,35250682357618365715550010000000121373765857,Saida para Entrega,2025-05-09 15:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000012,35250682357618365715550010000000121373765857,Entregue,2025-05-10 05:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema TMS
+PED000013,43250669611372797663550020000000131626829890,Coleta Realizada,2025-06-07 17:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000013,43250669611372797663550020000000131626829890,Em Transito,2025-06-07 23:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000013,43250669611372797663550020000000131626829890,Chegada Filial Destino,2025-06-08 15:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Ana Ferreira - Atendimento
+PED000014,42250669374229978292550010000000141373856967,Coleta Realizada,2025-05-08 06:00:00,sem informacao,Ana Ferreira - Atendimento
+PED000014,42250669374229978292550010000000141373856967,Em Transito,2025-05-08 11:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000014,42250669374229978292550010000000141373856967,Chegada Filial Destino,2025-05-09 17:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Marcia Souza - CD Destino
+PED000014,42250669374229978292550010000000141373856967,Saida para Entrega,2025-05-10 09:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema TMS
+PED000014,42250669374229978292550010000000141373856967,Entregue,2025-05-11 11:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Joao Pereira - Operacoes
+PED000015,29250567196793781602550020000000151646068333,Coleta Realizada,2025-05-03 21:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000016,43250636723951363031550020000000161292193190,Coleta Realizada,2025-06-10 08:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000016,43250636723951363031550020000000161292193190,Em Transito,2025-06-10 19:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000016,43250636723951363031550020000000161292193190,Chegada Filial Destino,2025-06-11 03:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Carlos Lima - Motorista
+PED000017,29250593743566634281550010000000171906254943,Coleta Realizada,2025-05-03 04:00:00,sem informacao,Joao Pereira - Operacoes
+PED000017,29250593743566634281550010000000171906254943,Em Transito,2025-05-04 06:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000017,29250593743566634281550010000000171906254943,Chegada Filial Destino,2025-05-05 04:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000017,29250593743566634281550010000000171906254943,Saida para Entrega,2025-05-05 11:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Carlos Lima - Motorista
+PED000017,29250593743566634281550010000000171906254943,Entregue,2025-05-06 00:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Carlos Lima - Motorista
+PED000018,43250647380125525469550020000000181175661854,Coleta Realizada,2025-06-09 13:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000018,43250647380125525469550020000000181175661854,Em Transito,2025-06-10 18:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000018,43250647380125525469550020000000181175661854,Chegada Filial Destino,2025-06-11 16:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Marcia Souza - CD Destino
+PED000018,43250647380125525469550020000000181175661854,Saida para Entrega,2025-06-12 14:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Joao Pereira - Operacoes
+PED000018,43250647380125525469550020000000181175661854,Entregue,2025-06-13 08:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Carlos Lima - Motorista
+PED000019,31250559121254315582550010000000191327872995,Coleta Realizada,2025-05-18 12:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000019,31250559121254315582550010000000191327872995,Em Transito,2025-05-19 06:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000019,31250559121254315582550010000000191327872995,Chegada Filial Destino,2025-05-19 19:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Carlos Lima - Motorista
+PED000019,31250559121254315582550010000000191327872995,Saida para Entrega,2025-05-20 09:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Ana Ferreira - Atendimento
+PED000019,31250559121254315582550010000000191327872995,Entregue,2025-05-20 18:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Ana Ferreira - Atendimento
+PED000020,33250631876644515991550020000000201378166869,Coleta Realizada,2025-06-23 03:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000020,33250631876644515991550020000000201378166869,Em Transito,2025-06-23 20:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000020,33250631876644515991550020000000201378166869,Chegada Filial Destino,2025-06-24 13:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000020,33250631876644515991550020000000201378166869,Saida para Entrega,2025-06-24 18:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Carlos Lima - Motorista
+PED000020,33250631876644515991550020000000201378166869,Entregue,2025-06-25 18:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema EDI
+PED000021,43250648941735528476550010000000211004758945,Coleta Realizada,2025-06-28 10:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000021,43250648941735528476550010000000211004758945,Em Transito,2025-06-29 11:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000021,43250648941735528476550010000000211004758945,Chegada Filial Destino,2025-06-29 16:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Ana Ferreira - Atendimento
+PED000022,43250515070404701755550020000000221781831108,Coleta Realizada,2025-05-04 15:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000022,43250515070404701755550020000000221781831108,Em Transito,2025-05-05 07:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000022,43250515070404701755550020000000221781831108,Chegada Filial Destino,2025-05-06 08:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Ana Ferreira - Atendimento
+PED000022,43250515070404701755550020000000221781831108,Saida para Entrega,2025-05-07 06:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema TMS
+PED000022,43250515070404701755550020000000221781831108,Entregue,2025-05-07 12:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema EDI
+PED000023,35250688798820586172550020000000231833037772,Coleta Realizada,2025-05-22 08:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000023,35250688798820586172550020000000231833037772,Em Transito,2025-05-23 05:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000023,35250688798820586172550020000000231833037772,Chegada Filial Destino,2025-05-24 04:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Marcia Souza - CD Destino
+PED000023,35250688798820586172550020000000231833037772,Extravio de Carga,2025-05-25 08:00:00,"Carga nao localizada no centro de distribuicao, aberta investigacao.",Sistema TMS
+PED000024,31250644925861225578550020000000241213671721,Coleta Realizada,2025-05-06 10:00:00,Mercadoria coletada no remetente conforme romaneio.,Ana Ferreira - Atendimento
+PED000024,31250644925861225578550020000000241213671721,Em Transito,2025-05-07 06:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000024,31250644925861225578550020000000241213671721,Chegada Filial Destino,2025-05-07 16:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Carlos Lima - Motorista
+PED000024,31250644925861225578550020000000241213671721,Saida para Entrega,2025-05-08 09:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Ana Ferreira - Atendimento
+PED000024,31250644925861225578550020000000241213671721,Tentativa de Entrega Nao Sucedida,2025-05-09 10:00:00,Destinatario ausente no endereco informado.,Marcia Souza - CD Destino
+PED000024,31250644925861225578550020000000241213671721,Entregue,2025-05-09 13:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Marcia Souza - CD Destino
+PED000025,33250649210166319532550010000000251374635225,Coleta Realizada,2025-05-08 05:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000025,33250649210166319532550010000000251374635225,Em Transito,2025-05-08 12:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000025,33250649210166319532550010000000251374635225,Chegada Filial Destino,2025-05-09 05:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Ana Ferreira - Atendimento
+PED000026,35250571158601581772550020000000261977836625,Coleta Realizada,2025-06-06 18:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000026,35250571158601581772550020000000261977836625,Em Transito,2025-06-07 19:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000026,35250571158601581772550020000000261977836625,Chegada Filial Destino,2025-06-08 07:00:00,,Sistema TMS
+PED000026,35250571158601581772550020000000261977836625,Saida para Entrega,2025-06-09 13:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema TMS
+PED000026,35250571158601581772550020000000261977836625,Entregue,2025-06-10 13:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema EDI
+PED000027,29250570698042146390550010000000271891524725,Coleta Realizada,2025-06-01 19:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000027,29250570698042146390550010000000271891524725,Em Transito,2025-06-02 08:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000028,31250569172588383926550030000000281508880172,Coleta Realizada,2025-06-12 04:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000028,31250569172588383926550030000000281508880172,Em Transito,2025-06-12 12:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000029,43250672175943685961550020000000291906811523,Coleta Realizada,2025-06-27 02:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000029,43250672175943685961550020000000291906811523,Em Transito,2025-06-27 19:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000029,43250672175943685961550020000000291906811523,Chegada Filial Destino,2025-06-27 22:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Joao Pereira - Operacoes
+PED000029,43250672175943685961550020000000291906811523,Saida para Entrega,2025-06-28 09:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema TMS
+PED000029,43250672175943685961550020000000291906811523,Entregue,2025-06-29 06:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Ana Ferreira - Atendimento
+PED000030,33250630736957361640550010000000301062027003,Coleta Realizada,2025-06-03 14:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000030,33250630736957361640550010000000301062027003,Em Transito,2025-06-03 20:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000030,33250630736957361640550010000000301062027003,Devolucao ao Remetente,2025-06-04 15:00:00,Mercadoria devolvida ao remetente por recusa do destinatario.,Marcia Souza - CD Destino
+PED000031,33250525001828841737550020000000311293723602,Coleta Realizada,2025-06-16 22:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000032,41250672289444371793550030000000321965393168,Coleta Realizada,2025-05-15 14:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000032,41250672289444371793550030000000321965393168,Em Transito,2025-05-16 12:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000032,41250672289444371793550030000000321965393168,Chegada Filial Destino,2025-05-17 13:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Ana Ferreira - Atendimento
+PED000032,41250672289444371793550030000000321965393168,Saida para Entrega,2025-05-18 10:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Joao Pereira - Operacoes
+PED000032,41250672289444371793550030000000321965393168,Entregue,2025-05-18 23:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Marcia Souza - CD Destino
+PED000033,29250643670940497385550020000000331590387001,Coleta Realizada,2025-05-27 08:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000033,29250643670940497385550020000000331590387001,Em Transito,2025-05-28 03:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000034,33250568386061282641550020000000341444101488,Coleta Realizada,2025-05-08 15:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000034,33250568386061282641550020000000341444101488,Em Transito,2025-05-09 14:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000034,33250568386061282641550020000000341444101488,Chegada Filial Destino,2025-05-09 22:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Carlos Lima - Motorista
+PED000034,33250568386061282641550020000000341444101488,Saida para Entrega,2025-05-10 10:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000034,33250568386061282641550020000000341444101488,Tentativa de Entrega Nao Sucedida,2025-05-11 15:00:00,Destinatario ausente no endereco informado.,Sistema TMS
+PED000034,33250568386061282641550020000000341444101488,Entregue,2025-05-12 21:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema TMS
+PED000035,31250685747842914957550030000000351986009148,Coleta Realizada,2025-06-16 07:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000035,31250685747842914957550030000000351986009148,Em Transito,2025-06-17 03:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000035,31250685747842914957550030000000351986009148,Chegada Filial Destino,2025-06-17 19:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Carlos Lima - Motorista
+PED000036,41250575781034082568550010000000361835179158,Coleta Realizada,2025-06-22 17:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000036,41250575781034082568550010000000361835179158,Em Transito,2025-06-23 14:00:00,N/A,Marcia Souza - CD Destino
+PED000036,41250575781034082568550010000000361835179158,Chegada Filial Destino,2025-06-23 18:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Ana Ferreira - Atendimento
+PED000036,41250575781034082568550010000000361835179158,Saida para Entrega,2025-06-24 06:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Carlos Lima - Motorista
+PED000036,41250575781034082568550010000000361835179158,Entregue,2025-06-25 03:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Carlos Lima - Motorista
+PED000037,35250656069447455603550010000000371610287105,Coleta Realizada,2025-05-28 06:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000037,35250656069447455603550010000000371610287105,Em Transito,2025-05-29 09:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000037,35250656069447455603550010000000371610287105,Chegada Filial Destino,2025-05-30 05:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000037,35250656069447455603550010000000371610287105,Saida para Entrega,2025-05-31 08:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Ana Ferreira - Atendimento
+PED000037,35250656069447455603550010000000371610287105,Entregue,2025-05-31 17:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema TMS
+PED000038,35250514366926179693550010000000381267577370,Coleta Realizada,2025-05-12 12:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000038,35250514366926179693550010000000381267577370,Em Transito,2025-05-13 05:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000039,42250525214110064422550030000000391034464994,Coleta Realizada,2025-06-26 06:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000039,42250525214110064422550030000000391034464994,Em Transito,2025-06-26 15:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000039,42250525214110064422550030000000391034464994,Chegada Filial Destino,2025-06-27 16:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000040,31250558864019317182550030000000401574959235,Coleta Realizada,2025-05-04 16:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000040,31250558864019317182550030000000401574959235,Em Transito,2025-05-05 20:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000040,31250558864019317182550030000000401574959235,Chegada Filial Destino,2025-05-07 00:00:00,sem informacao,Ana Ferreira - Atendimento
+PED000040,31250558864019317182550030000000401574959235,Saida para Entrega,2025-05-07 11:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Joao Pereira - Operacoes
+PED000040,31250558864019317182550030000000401574959235,Entregue,2025-05-08 00:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Marcia Souza - CD Destino
+PED000041,41250534788126668266550030000000411700276624,Coleta Realizada,2025-06-21 21:00:00,Mercadoria coletada no remetente conforme romaneio.,Ana Ferreira - Atendimento
+PED000041,41250534788126668266550030000000411700276624,Em Transito,2025-06-22 21:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000041,41250534788126668266550030000000411700276624,Chegada Filial Destino,2025-06-24 00:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000042,31250690197625258581550030000000421896827386,Coleta Realizada,2025-05-28 06:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000042,31250690197625258581550030000000421896827386,Em Transito,2025-05-29 12:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000042,31250690197625258581550030000000421896827386,Chegada Filial Destino,2025-05-30 13:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Joao Pereira - Operacoes
+PED000042,31250690197625258581550030000000421896827386,Saida para Entrega,2025-05-31 16:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Carlos Lima - Motorista
+PED000042,31250690197625258581550030000000421896827386,Entregue,2025-06-01 10:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema EDI
+PED000043,42250611428316246563550030000000431256431591,Coleta Realizada,2025-06-11 16:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000043,42250611428316246563550030000000431256431591,Em Transito,2025-06-12 15:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000043,42250611428316246563550030000000431256431591,Chegada Filial Destino,2025-06-13 06:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Marcia Souza - CD Destino
+PED000043,42250611428316246563550030000000431256431591,Saida para Entrega,2025-06-14 07:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000043,42250611428316246563550030000000431256431591,Entregue,2025-06-15 00:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Marcia Souza - CD Destino
+PED000044,35250666913563388604550030000000441326558664,Coleta Realizada,2025-06-16 06:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000044,35250666913563388604550030000000441326558664,Em Transito,2025-06-16 11:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000045,31250642445262724553550010000000451968091443,Coleta Realizada,2025-06-13 01:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000045,31250642445262724553550010000000451968091443,Em Transito,2025-06-14 05:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000045,31250642445262724553550010000000451968091443,Chegada Filial Destino,2025-06-14 21:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Carlos Lima - Motorista
+PED000045,31250642445262724553550010000000451968091443,Saida para Entrega,2025-06-15 08:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000045,31250642445262724553550010000000451968091443,Entregue,2025-06-15 21:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Joao Pereira - Operacoes
+PED000046,42250624151833534139550010000000461397615273,Coleta Realizada,2025-06-24 18:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000046,42250624151833534139550010000000461397615273,Em Transito,2025-06-25 21:00:00,,Sistema EDI
+PED000046,42250624151833534139550010000000461397615273,Chegada Filial Destino,2025-06-27 01:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000046,42250624151833534139550010000000461397615273,Saida para Entrega,2025-06-27 07:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Joao Pereira - Operacoes
+PED000046,42250624151833534139550010000000461397615273,Entregue,2025-06-28 00:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Carlos Lima - Motorista
+PED000047,41250511726030188435550030000000471381633787,Coleta Realizada,2025-05-22 01:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000047,41250511726030188435550030000000471381633787,Em Transito,2025-05-22 13:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000047,41250511726030188435550030000000471381633787,Chegada Filial Destino,2025-05-22 18:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Marcia Souza - CD Destino
+PED000047,41250511726030188435550030000000471381633787,Saida para Entrega,2025-05-22 23:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema EDI
+PED000047,41250511726030188435550030000000471381633787,Entregue,2025-05-23 07:00:00,sem informacao,Sistema EDI
+PED000048,42250530994451805395550030000000481407801121,Coleta Realizada,2025-05-13 16:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000048,42250530994451805395550030000000481407801121,Em Transito,2025-05-13 22:00:00,-,Sistema TMS
+PED000048,42250530994451805395550030000000481407801121,Devolucao ao Remetente,2025-05-14 05:00:00,Mercadoria devolvida ao remetente por recusa do destinatario.,Ana Ferreira - Atendimento
+PED000049,31250690025142257221550030000000491080839749,Coleta Realizada,2025-06-15 03:00:00,sem informacao,Sistema TMS
+PED000049,31250690025142257221550030000000491080839749,Em Transito,2025-06-16 09:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000049,31250690025142257221550030000000491080839749,Chegada Filial Destino,2025-06-17 03:00:00,-,Sistema TMS
+PED000049,31250690025142257221550030000000491080839749,Avaria Constatada,2025-06-18 05:00:00,"Avaria identificada na conferencia de recebimento, registrado boletim de ocorrencia interno.",Sistema TMS
+PED000050,35250567492443716410550020000000501925258279,Coleta Realizada,2025-05-08 12:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000050,35250567492443716410550020000000501925258279,Em Transito,2025-05-09 11:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000050,35250567492443716410550020000000501925258279,Chegada Filial Destino,2025-05-09 16:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000050,35250567492443716410550020000000501925258279,Saida para Entrega,2025-05-10 14:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Carlos Lima - Motorista
+PED000050,35250567492443716410550020000000501925258279,Entregue,2025-05-11 04:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema EDI
+PED000051,43250526150902990937550030000000511301734132,Coleta Realizada,2025-05-09 16:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000051,43250526150902990937550030000000511301734132,Em Transito,2025-05-10 22:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000051,43250526150902990937550030000000511301734132,Extravio de Carga,2025-05-11 05:00:00,"Carga nao localizada no centro de distribuicao, aberta investigacao.",Ana Ferreira - Atendimento
+PED000052,43250666649329000225550020000000521671722388,Coleta Realizada,2025-06-15 14:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000052,43250666649329000225550020000000521671722388,Em Transito,2025-06-16 18:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000052,43250666649329000225550020000000521671722388,Chegada Filial Destino,2025-06-17 17:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Ana Ferreira - Atendimento
+PED000052,43250666649329000225550020000000521671722388,Saida para Entrega,2025-06-18 15:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Ana Ferreira - Atendimento
+PED000052,43250666649329000225550020000000521671722388,Entregue,2025-06-19 03:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema EDI
+PED000053,43250591098730024110550010000000531235137017,Coleta Realizada,2025-06-02 06:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000053,43250591098730024110550010000000531235137017,Em Transito,2025-06-02 15:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000053,43250591098730024110550010000000531235137017,Chegada Filial Destino,2025-06-03 00:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Marcia Souza - CD Destino
+PED000053,43250591098730024110550010000000531235137017,Saida para Entrega,2025-06-03 23:00:00,N/A,Carlos Lima - Motorista
+PED000053,43250591098730024110550010000000531235137017,Tentativa de Entrega Nao Sucedida,2025-06-04 14:00:00,Destinatario ausente no endereco informado.,Carlos Lima - Motorista
+PED000053,43250591098730024110550010000000531235137017,Entregue,2025-06-05 13:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Ana Ferreira - Atendimento
+PED000054,41250656416402305366550020000000541931033047,Coleta Realizada,2025-06-03 03:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000054,41250656416402305366550020000000541931033047,Em Transito,2025-06-03 10:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000054,41250656416402305366550020000000541931033047,Chegada Filial Destino,2025-06-04 02:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000054,41250656416402305366550020000000541931033047,Saida para Entrega,2025-06-04 10:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema TMS
+PED000054,41250656416402305366550020000000541931033047,Entregue,2025-06-04 13:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema TMS
+PED000055,29250575019545348589550020000000551072751493,Coleta Realizada,2025-06-04 04:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000055,29250575019545348589550020000000551072751493,Em Transito,2025-06-04 23:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000055,29250575019545348589550020000000551072751493,Chegada Filial Destino,2025-06-05 18:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Carlos Lima - Motorista
+PED000055,29250575019545348589550020000000551072751493,Saida para Entrega,2025-06-06 19:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema EDI
+PED000055,29250575019545348589550020000000551072751493,Entregue,2025-06-07 15:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Joao Pereira - Operacoes
+PED000056,43250614059265615798550030000000561817213713,Coleta Realizada,2025-05-10 05:00:00,Mercadoria coletada no remetente conforme romaneio.,Ana Ferreira - Atendimento
+PED000056,43250614059265615798550030000000561817213713,Em Transito,2025-05-10 14:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000056,43250614059265615798550030000000561817213713,Chegada Filial Destino,2025-05-11 10:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Ana Ferreira - Atendimento
+PED000057,29250551075850039498550030000000571946787464,Coleta Realizada,2025-05-16 05:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000057,29250551075850039498550030000000571946787464,Em Transito,2025-05-16 10:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000057,29250551075850039498550030000000571946787464,Chegada Filial Destino,2025-05-17 12:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Joao Pereira - Operacoes
+PED000057,29250551075850039498550030000000571946787464,Saida para Entrega,2025-05-17 16:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Carlos Lima - Motorista
+PED000057,29250551075850039498550030000000571946787464,Entregue,2025-05-17 22:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Ana Ferreira - Atendimento
+PED000058,29250681458754124063550020000000581003443034,Coleta Realizada,2025-05-28 12:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000058,29250681458754124063550020000000581003443034,Em Transito,2025-05-29 14:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000059,29250643611114824158550030000000591514014773,Coleta Realizada,2025-06-13 01:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000060,42250624125587803671550020000000601133830778,Coleta Realizada,2025-05-16 18:00:00,Mercadoria coletada no remetente conforme romaneio.,Ana Ferreira - Atendimento
+PED000060,42250624125587803671550020000000601133830778,Em Transito,2025-05-17 13:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000060,42250624125587803671550020000000601133830778,Extravio de Carga,2025-05-18 00:00:00,"Carga nao localizada no centro de distribuicao, aberta investigacao.",Joao Pereira - Operacoes
+PED000061,41250556243276212831550030000000611716215746,Coleta Realizada,2025-06-12 02:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000061,41250556243276212831550030000000611716215746,Em Transito,2025-06-12 15:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000061,41250556243276212831550030000000611716215746,Chegada Filial Destino,2025-06-13 10:00:00,verificar depois,Sistema EDI
+PED000061,41250556243276212831550030000000611716215746,Avaria Constatada,2025-06-13 15:00:00,"Avaria identificada na conferencia de recebimento, registrado boletim de ocorrencia interno.",Ana Ferreira - Atendimento
+PED000062,31250522720605500576550020000000621132128121,Coleta Realizada,2025-05-21 18:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000062,31250522720605500576550020000000621132128121,Em Transito,2025-05-22 08:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000062,31250522720605500576550020000000621132128121,Chegada Filial Destino,2025-05-23 05:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000062,31250522720605500576550020000000621132128121,Saida para Entrega,2025-05-23 15:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema TMS
+PED000062,31250522720605500576550020000000621132128121,Entregue,2025-05-23 19:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema TMS
+PED000063,33250635343710891622550010000000631234974111,Coleta Realizada,2025-06-12 04:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000063,33250635343710891622550010000000631234974111,Em Transito,2025-06-12 11:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000064,41250611321419018953550020000000641386052688,Coleta Realizada,2025-05-16 01:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000064,41250611321419018953550020000000641386052688,Em Transito,2025-05-16 11:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000064,41250611321419018953550020000000641386052688,Chegada Filial Destino,2025-05-17 13:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000064,41250611321419018953550020000000641386052688,Saida para Entrega,2025-05-18 10:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Ana Ferreira - Atendimento
+PED000064,41250611321419018953550020000000641386052688,Entregue,2025-05-19 10:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Joao Pereira - Operacoes
+PED000065,41250643380943896830550020000000651767621645,Coleta Realizada,2025-06-29 04:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000065,41250643380943896830550020000000651767621645,Em Transito,2025-06-29 19:00:00,-,Marcia Souza - CD Destino
+PED000066,29250695436477803006550020000000661293942913,Coleta Realizada,2025-05-20 13:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000066,29250695436477803006550020000000661293942913,Em Transito,2025-05-20 16:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000066,29250695436477803006550020000000661293942913,Chegada Filial Destino,2025-05-21 13:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000067,35250628497274637827550010000000671396090545,Coleta Realizada,2025-05-10 17:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000067,35250628497274637827550010000000671396090545,Em Transito,2025-05-11 20:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000068,29250657673580344784550010000000681628583741,Coleta Realizada,2025-06-28 03:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000068,29250657673580344784550010000000681628583741,Em Transito,2025-06-28 06:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000068,29250657673580344784550010000000681628583741,Chegada Filial Destino,2025-06-28 16:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000068,29250657673580344784550010000000681628583741,Saida para Entrega,2025-06-29 21:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema TMS
+PED000068,29250657673580344784550010000000681628583741,Entregue,2025-06-30 10:00:00,-,Sistema EDI
+PED000069,35250627392627142041550020000000691494707294,Coleta Realizada,2025-06-03 06:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000069,35250627392627142041550020000000691494707294,Em Transito,2025-06-03 22:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000069,35250627392627142041550020000000691494707294,Chegada Filial Destino,2025-06-04 05:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000070,35250626421413589979550010000000701060863450,Coleta Realizada,2025-06-20 10:00:00,Mercadoria coletada no remetente conforme romaneio.,Ana Ferreira - Atendimento
+PED000070,35250626421413589979550010000000701060863450,Em Transito,2025-06-21 02:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000070,35250626421413589979550010000000701060863450,Chegada Filial Destino,2025-06-21 19:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000070,35250626421413589979550010000000701060863450,Saida para Entrega,2025-06-22 16:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Joao Pereira - Operacoes
+PED000070,35250626421413589979550010000000701060863450,Tentativa de Entrega Nao Sucedida,2025-06-23 15:00:00,Destinatario ausente no endereco informado.,Sistema TMS
+PED000070,35250626421413589979550010000000701060863450,Entregue,2025-06-24 12:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Carlos Lima - Motorista
+PED000071,43250631748540139247550020000000711879021291,Coleta Realizada,2025-06-13 00:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000072,35250618522755607704550020000000721370281803,Coleta Realizada,2025-06-08 11:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000072,35250618522755607704550020000000721370281803,Em Transito,2025-06-09 12:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000072,35250618522755607704550020000000721370281803,Chegada Filial Destino,2025-06-10 01:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Joao Pereira - Operacoes
+PED000072,35250618522755607704550020000000721370281803,Avaria Constatada,2025-06-10 06:00:00,"Avaria identificada na conferencia de recebimento, registrado boletim de ocorrencia interno.",Joao Pereira - Operacoes
+PED000073,42250587999892421253550010000000731787030053,Coleta Realizada,2025-06-09 03:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000074,29250513628673763174550010000000741019945195,Coleta Realizada,2025-05-05 06:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000074,29250513628673763174550010000000741019945195,Em Transito,2025-05-05 19:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000075,35250682230019962384550030000000751146369817,Coleta Realizada,2025-06-18 03:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000075,35250682230019962384550030000000751146369817,Em Transito,2025-06-18 20:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000075,35250682230019962384550030000000751146369817,Chegada Filial Destino,2025-06-19 01:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000075,35250682230019962384550030000000751146369817,Saida para Entrega,2025-06-19 13:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema EDI
+PED000075,35250682230019962384550030000000751146369817,Entregue,2025-06-20 11:00:00,sem informacao,Joao Pereira - Operacoes
+PED000076,43250572426961815363550010000000761108435145,Coleta Realizada,2025-06-29 01:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000076,43250572426961815363550010000000761108435145,Em Transito,2025-06-29 16:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000077,41250540261761861534550020000000771606066743,Coleta Realizada,2025-06-16 05:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000077,41250540261761861534550020000000771606066743,Em Transito,2025-06-16 20:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000077,41250540261761861534550020000000771606066743,Chegada Filial Destino,2025-06-17 22:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000077,41250540261761861534550020000000771606066743,Saida para Entrega,2025-06-18 15:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Joao Pereira - Operacoes
+PED000077,41250540261761861534550020000000771606066743,Entregue,2025-06-18 21:00:00,N/A,Joao Pereira - Operacoes
+PED000078,41250523117196759132550020000000781129606585,Coleta Realizada,2025-06-12 09:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000079,35250653974453918164550020000000791139050329,Coleta Realizada,2025-06-28 23:00:00,Mercadoria coletada no remetente conforme romaneio.,Ana Ferreira - Atendimento
+PED000079,35250653974453918164550020000000791139050329,Em Transito,2025-06-29 10:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000079,35250653974453918164550020000000791139050329,Chegada Filial Destino,2025-06-29 13:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Joao Pereira - Operacoes
+PED000079,35250653974453918164550020000000791139050329,Saida para Entrega,2025-06-30 12:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Joao Pereira - Operacoes
+PED000079,35250653974453918164550020000000791139050329,Entregue,2025-06-30 17:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Marcia Souza - CD Destino
+PED000080,42250570395002138444550030000000801834463569,Coleta Realizada,2025-06-04 04:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000080,42250570395002138444550030000000801834463569,Em Transito,2025-06-04 12:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000081,33250519794246790553550010000000811994511830,Coleta Realizada,2025-06-11 15:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000081,33250519794246790553550010000000811994511830,Em Transito,2025-06-12 15:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000081,33250519794246790553550010000000811994511830,Chegada Filial Destino,2025-06-13 00:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Marcia Souza - CD Destino
+PED000081,33250519794246790553550010000000811994511830,Saida para Entrega,2025-06-13 11:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Joao Pereira - Operacoes
+PED000081,33250519794246790553550010000000811994511830,Entregue,2025-06-13 15:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Ana Ferreira - Atendimento
+PED000082,42250517404022576806550010000000821211271989,Coleta Realizada,2025-06-24 12:00:00,Mercadoria coletada no remetente conforme romaneio.,Ana Ferreira - Atendimento
+PED000082,42250517404022576806550010000000821211271989,Em Transito,2025-06-25 06:00:00,sem informacao,Carlos Lima - Motorista
+PED000082,42250517404022576806550010000000821211271989,Chegada Filial Destino,2025-06-25 13:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000082,42250517404022576806550010000000821211271989,Saida para Entrega,2025-06-26 17:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema EDI
+PED000082,42250517404022576806550010000000821211271989,Entregue,2025-06-27 21:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema TMS
+PED000083,42250570504686804870550010000000831380166979,Coleta Realizada,2025-06-10 04:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000083,42250570504686804870550010000000831380166979,Em Transito,2025-06-11 00:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000083,42250570504686804870550010000000831380166979,Chegada Filial Destino,2025-06-11 21:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Carlos Lima - Motorista
+PED000083,42250570504686804870550010000000831380166979,Saida para Entrega,2025-06-12 08:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000083,42250570504686804870550010000000831380166979,Entregue,2025-06-13 06:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Marcia Souza - CD Destino
+PED000084,29250656176436565249550010000000841010374907,Coleta Realizada,2025-06-08 04:00:00,Mercadoria coletada no remetente conforme romaneio.,Ana Ferreira - Atendimento
+PED000084,29250656176436565249550010000000841010374907,Em Transito,2025-06-08 18:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000085,43250512638983468659550020000000851104505425,Coleta Realizada,2025-06-03 06:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000085,43250512638983468659550020000000851104505425,Em Transito,2025-06-03 17:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000086,42250660929377609673550010000000861586144621,Coleta Realizada,2025-05-11 10:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000086,42250660929377609673550010000000861586144621,Em Transito,2025-05-12 00:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000086,42250660929377609673550010000000861586144621,Chegada Filial Destino,2025-05-12 08:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Marcia Souza - CD Destino
+PED000086,42250660929377609673550010000000861586144621,Saida para Entrega,2025-05-13 12:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000086,42250660929377609673550010000000861586144621,Tentativa de Entrega Nao Sucedida,2025-05-14 09:00:00,sem informacao,Ana Ferreira - Atendimento
+PED000086,42250660929377609673550010000000861586144621,Entregue,2025-05-15 06:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Joao Pereira - Operacoes
+PED000087,33250599118468933724550010000000871712165738,Coleta Realizada,2025-06-09 04:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000087,33250599118468933724550010000000871712165738,Em Transito,2025-06-10 00:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000087,33250599118468933724550010000000871712165738,Chegada Filial Destino,2025-06-10 04:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Joao Pereira - Operacoes
+PED000087,33250599118468933724550010000000871712165738,Saida para Entrega,2025-06-11 02:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Ana Ferreira - Atendimento
+PED000087,33250599118468933724550010000000871712165738,Entregue,2025-06-11 20:00:00,verificar depois,Joao Pereira - Operacoes
+PED000088,42250520607089643612550010000000881842818577,Coleta Realizada,2025-05-09 13:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000088,42250520607089643612550010000000881842818577,Em Transito,2025-05-09 17:00:00,verificar depois,Sistema EDI
+PED000088,42250520607089643612550010000000881842818577,Chegada Filial Destino,2025-05-10 00:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Ana Ferreira - Atendimento
+PED000088,42250520607089643612550010000000881842818577,Saida para Entrega,2025-05-11 06:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema TMS
+PED000088,42250520607089643612550010000000881842818577,Entregue,2025-05-11 20:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema EDI
+PED000089,41250652617377289349550020000000891793790160,Coleta Realizada,2025-06-05 06:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000089,41250652617377289349550020000000891793790160,Em Transito,2025-06-05 13:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000089,41250652617377289349550020000000891793790160,Chegada Filial Destino,2025-06-06 05:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Carlos Lima - Motorista
+PED000089,41250652617377289349550020000000891793790160,Saida para Entrega,2025-06-07 04:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema EDI
+PED000089,41250652617377289349550020000000891793790160,Entregue,2025-06-08 00:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Ana Ferreira - Atendimento
+PED000090,29250593608474824836550030000000901516043647,Coleta Realizada,2025-06-03 10:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000090,29250593608474824836550030000000901516043647,Em Transito,2025-06-04 01:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000090,29250593608474824836550030000000901516043647,Chegada Filial Destino,2025-06-04 13:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000091,41250558334863489501550030000000911113184648,Coleta Realizada,2025-06-18 01:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000091,41250558334863489501550030000000911113184648,Em Transito,2025-06-19 07:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000092,31250617368436812891550030000000921868798545,Coleta Realizada,2025-05-12 22:00:00,Mercadoria coletada no remetente conforme romaneio.,Ana Ferreira - Atendimento
+PED000092,31250617368436812891550030000000921868798545,Em Transito,2025-05-13 08:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000092,31250617368436812891550030000000921868798545,Chegada Filial Destino,2025-05-14 02:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000092,31250617368436812891550030000000921868798545,Saida para Entrega,2025-05-14 07:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000092,31250617368436812891550030000000921868798545,Tentativa de Entrega Nao Sucedida,2025-05-14 15:00:00,Destinatario ausente no endereco informado.,Sistema TMS
+PED000092,31250617368436812891550030000000921868798545,Entregue,2025-05-15 20:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema EDI
+PED000093,43250559232852542787550020000000931880541736,Coleta Realizada,2025-05-11 13:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000093,43250559232852542787550020000000931880541736,Em Transito,2025-05-11 22:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000093,43250559232852542787550020000000931880541736,Chegada Filial Destino,2025-05-12 12:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000093,43250559232852542787550020000000931880541736,Saida para Entrega,2025-05-13 14:00:00,-,Carlos Lima - Motorista
+PED000093,43250559232852542787550020000000931880541736,Entregue,2025-05-14 16:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Joao Pereira - Operacoes
+PED000094,42250661028584743351550020000000941241944793,Coleta Realizada,2025-05-21 18:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000094,42250661028584743351550020000000941241944793,Em Transito,2025-05-22 14:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000094,42250661028584743351550020000000941241944793,Chegada Filial Destino,2025-05-23 18:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000094,42250661028584743351550020000000941241944793,Saida para Entrega,2025-05-24 21:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Joao Pereira - Operacoes
+PED000094,42250661028584743351550020000000941241944793,Entregue,2025-05-25 14:00:00,,Marcia Souza - CD Destino
+PED000095,29250557397807075803550030000000951175891049,Coleta Realizada,2025-05-17 11:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000095,29250557397807075803550030000000951175891049,Em Transito,2025-05-18 00:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000095,29250557397807075803550030000000951175891049,Chegada Filial Destino,2025-05-18 08:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Ana Ferreira - Atendimento
+PED000095,29250557397807075803550030000000951175891049,Saida para Entrega,2025-05-18 13:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Ana Ferreira - Atendimento
+PED000095,29250557397807075803550030000000951175891049,Tentativa de Entrega Nao Sucedida,2025-05-19 07:00:00,Destinatario ausente no endereco informado.,Carlos Lima - Motorista
+PED000095,29250557397807075803550030000000951175891049,Entregue,2025-05-20 06:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Carlos Lima - Motorista
+PED000096,43250572517413344625550030000000961382423797,Coleta Realizada,2025-05-14 06:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000096,43250572517413344625550030000000961382423797,Em Transito,2025-05-14 22:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000096,43250572517413344625550030000000961382423797,Chegada Filial Destino,2025-05-16 00:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000096,43250572517413344625550030000000961382423797,Saida para Entrega,2025-05-16 12:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema TMS
+PED000096,43250572517413344625550030000000961382423797,Entregue,2025-05-16 16:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Ana Ferreira - Atendimento
+PED000097,29250684232079744565550020000000971217510793,Coleta Realizada,2025-06-16 05:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000098,29250521803794465744550010000000981366134287,Coleta Realizada,2025-05-23 03:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000098,29250521803794465744550010000000981366134287,Em Transito,2025-05-24 08:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000098,29250521803794465744550010000000981366134287,Chegada Filial Destino,2025-05-25 02:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000098,29250521803794465744550010000000981366134287,Extravio de Carga,2025-05-25 11:00:00,"Carga nao localizada no centro de distribuicao, aberta investigacao.",Marcia Souza - CD Destino
+PED000099,41250664345233855399550010000000991503199273,Coleta Realizada,2025-06-01 18:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000099,41250664345233855399550010000000991503199273,Em Transito,2025-06-02 22:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000099,41250664345233855399550010000000991503199273,Chegada Filial Destino,2025-06-03 22:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000099,41250664345233855399550010000000991503199273,Saida para Entrega,2025-06-04 18:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000099,41250664345233855399550010000000991503199273,Entregue,2025-06-05 09:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Carlos Lima - Motorista
+PED000100,29250573133739096575550030000001001007048031,Coleta Realizada,2025-06-27 17:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000100,29250573133739096575550030000001001007048031,Em Transito,2025-06-28 22:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000100,29250573133739096575550030000001001007048031,Chegada Filial Destino,2025-06-29 05:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000100,29250573133739096575550030000001001007048031,Saida para Entrega,2025-06-29 11:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000100,29250573133739096575550030000001001007048031,Tentativa de Entrega Nao Sucedida,2025-06-30 15:00:00,Destinatario ausente no endereco informado.,Ana Ferreira - Atendimento
+PED000100,29250573133739096575550030000001001007048031,Entregue,2025-07-01 01:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Carlos Lima - Motorista
+PED000101,35250599925533413324550030000001011613527511,Coleta Realizada,2025-06-08 16:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000101,35250599925533413324550030000001011613527511,Em Transito,2025-06-09 22:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000101,35250599925533413324550030000001011613527511,Chegada Filial Destino,2025-06-10 08:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000101,35250599925533413324550030000001011613527511,Saida para Entrega,2025-06-10 23:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema EDI
+PED000101,35250599925533413324550030000001011613527511,Entregue,2025-06-11 03:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Ana Ferreira - Atendimento
+PED000102,42250690312626683455550020000001021251408471,Coleta Realizada,2025-05-11 00:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000102,42250690312626683455550020000001021251408471,Em Transito,2025-05-11 06:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000102,42250690312626683455550020000001021251408471,Chegada Filial Destino,2025-05-11 14:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Joao Pereira - Operacoes
+PED000102,42250690312626683455550020000001021251408471,Saida para Entrega,2025-05-11 23:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Joao Pereira - Operacoes
+PED000102,42250690312626683455550020000001021251408471,Entregue,2025-05-12 03:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema EDI
+PED000103,35250619508149293752550020000001031323633731,Coleta Realizada,2025-06-12 09:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000103,35250619508149293752550020000001031323633731,Em Transito,2025-06-12 16:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000103,35250619508149293752550020000001031323633731,Chegada Filial Destino,2025-06-13 05:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000104,41250635652257976528550010000001041084692107,Coleta Realizada,2025-05-27 20:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000104,41250635652257976528550010000001041084692107,Em Transito,2025-05-29 02:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000104,41250635652257976528550010000001041084692107,Chegada Filial Destino,2025-05-30 08:00:00,verificar depois,Ana Ferreira - Atendimento
+PED000104,41250635652257976528550010000001041084692107,Saida para Entrega,2025-05-31 03:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema TMS
+PED000104,41250635652257976528550010000001041084692107,Tentativa de Entrega Nao Sucedida,2025-05-31 19:00:00,Destinatario ausente no endereco informado.,Ana Ferreira - Atendimento
+PED000104,41250635652257976528550010000001041084692107,Entregue,2025-06-01 16:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema TMS
+PED000105,31250550266139182998550020000001051064161485,Coleta Realizada,2025-06-27 21:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000105,31250550266139182998550020000001051064161485,Em Transito,2025-06-29 03:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000105,31250550266139182998550020000001051064161485,Chegada Filial Destino,2025-06-29 19:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000105,31250550266139182998550020000001051064161485,Saida para Entrega,2025-06-30 13:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Carlos Lima - Motorista
+PED000105,31250550266139182998550020000001051064161485,Entregue,2025-06-30 17:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Carlos Lima - Motorista
+PED000106,41250647535949472548550010000001061975872036,Coleta Realizada,2025-06-06 22:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000106,41250647535949472548550010000001061975872036,Em Transito,2025-06-07 02:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000106,41250647535949472548550010000001061975872036,Chegada Filial Destino,2025-06-08 03:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000106,41250647535949472548550010000001061975872036,Saida para Entrega,2025-06-08 21:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000106,41250647535949472548550010000001061975872036,Tentativa de Entrega Nao Sucedida,2025-06-09 00:00:00,Destinatario ausente no endereco informado.,Marcia Souza - CD Destino
+PED000106,41250647535949472548550010000001061975872036,Entregue,2025-06-09 12:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Carlos Lima - Motorista
+PED000107,41250659475634854610550020000001071056848135,Coleta Realizada,2025-06-23 06:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000107,41250659475634854610550020000001071056848135,Em Transito,2025-06-24 08:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000108,43250514384958841220550010000001081815470547,Coleta Realizada,2025-06-12 16:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000108,43250514384958841220550010000001081815470547,Em Transito,2025-06-13 01:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000108,43250514384958841220550010000001081815470547,Chegada Filial Destino,2025-06-14 03:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Ana Ferreira - Atendimento
+PED000108,43250514384958841220550010000001081815470547,Saida para Entrega,2025-06-15 09:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema TMS
+PED000108,43250514384958841220550010000001081815470547,Entregue,2025-06-16 04:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema TMS
+PED000109,41250672480487040220550010000001091770304772,Coleta Realizada,2025-05-20 19:00:00,Mercadoria coletada no remetente conforme romaneio.,Ana Ferreira - Atendimento
+PED000109,41250672480487040220550010000001091770304772,Em Transito,2025-05-21 16:00:00,N/A,Joao Pereira - Operacoes
+PED000109,41250672480487040220550010000001091770304772,Chegada Filial Destino,2025-05-22 21:00:00,,Carlos Lima - Motorista
+PED000109,41250672480487040220550010000001091770304772,Saida para Entrega,2025-05-23 01:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema EDI
+PED000109,41250672480487040220550010000001091770304772,Entregue,2025-05-23 10:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Carlos Lima - Motorista
+PED000110,42250540199831786598550030000001101383294797,Coleta Realizada,2025-05-16 23:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000110,42250540199831786598550030000001101383294797,Em Transito,2025-05-17 02:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000110,42250540199831786598550030000001101383294797,Chegada Filial Destino,2025-05-18 00:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Carlos Lima - Motorista
+PED000110,42250540199831786598550030000001101383294797,Saida para Entrega,2025-05-18 21:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000110,42250540199831786598550030000001101383294797,Entregue,2025-05-19 05:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Marcia Souza - CD Destino
+PED000111,35250652214766825527550010000001111955374002,Coleta Realizada,2025-06-22 12:00:00,,Joao Pereira - Operacoes
+PED000111,35250652214766825527550010000001111955374002,Em Transito,2025-06-23 18:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000112,42250687640050846711550010000001121821343181,Coleta Realizada,2025-06-01 23:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000112,42250687640050846711550010000001121821343181,Em Transito,2025-06-02 10:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000112,42250687640050846711550010000001121821343181,Chegada Filial Destino,2025-06-02 13:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000112,42250687640050846711550010000001121821343181,Saida para Entrega,2025-06-02 16:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Joao Pereira - Operacoes
+PED000112,42250687640050846711550010000001121821343181,Entregue,2025-06-03 15:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema TMS
+PED000113,35250658488107848880550010000001131739946959,Coleta Realizada,2025-05-05 22:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000113,35250658488107848880550010000001131739946959,Em Transito,2025-05-06 23:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000113,35250658488107848880550010000001131739946959,Chegada Filial Destino,2025-05-07 10:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Carlos Lima - Motorista
+PED000113,35250658488107848880550010000001131739946959,Saida para Entrega,2025-05-08 16:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000113,35250658488107848880550010000001131739946959,Entregue,2025-05-09 01:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema EDI
+PED000114,31250583031370086020550020000001141105843974,Coleta Realizada,2025-05-10 22:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000114,31250583031370086020550020000001141105843974,Em Transito,2025-05-11 01:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema EDI
+PED000114,31250583031370086020550020000001141105843974,Chegada Filial Destino,2025-05-12 06:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Ana Ferreira - Atendimento
+PED000114,31250583031370086020550020000001141105843974,Saida para Entrega,2025-05-13 05:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000114,31250583031370086020550020000001141105843974,Entregue,2025-05-13 17:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Carlos Lima - Motorista
+PED000115,33250615796331603331550010000001151109015470,Coleta Realizada,2025-05-19 13:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000115,33250615796331603331550010000001151109015470,Em Transito,2025-05-20 02:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000115,33250615796331603331550010000001151109015470,Avaria Constatada,2025-05-21 01:00:00,"Avaria identificada na conferencia de recebimento, registrado boletim de ocorrencia interno.",Sistema EDI
+PED000116,42250677969154943549550010000001161919379146,Coleta Realizada,2025-05-16 07:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000116,42250677969154943549550010000001161919379146,Em Transito,2025-05-16 11:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000116,42250677969154943549550010000001161919379146,Chegada Filial Destino,2025-05-17 02:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000116,42250677969154943549550010000001161919379146,Saida para Entrega,2025-05-17 09:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema EDI
+PED000116,42250677969154943549550010000001161919379146,Entregue,2025-05-18 03:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Marcia Souza - CD Destino
+PED000117,31250658609841899473550020000001171175511355,Coleta Realizada,2025-05-11 15:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000117,31250658609841899473550020000001171175511355,Em Transito,2025-05-12 12:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000117,31250658609841899473550020000001171175511355,Chegada Filial Destino,2025-05-13 17:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema EDI
+PED000117,31250658609841899473550020000001171175511355,Saida para Entrega,2025-05-14 18:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Ana Ferreira - Atendimento
+PED000117,31250658609841899473550020000001171175511355,Entregue,2025-05-15 17:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema EDI
+PED000118,41250636716039681472550010000001181668760688,Coleta Realizada,2025-05-04 12:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000118,41250636716039681472550010000001181668760688,Em Transito,2025-05-05 08:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000118,41250636716039681472550010000001181668760688,Chegada Filial Destino,2025-05-06 02:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Marcia Souza - CD Destino
+PED000118,41250636716039681472550010000001181668760688,Saida para Entrega,2025-05-07 04:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Joao Pereira - Operacoes
+PED000118,41250636716039681472550010000001181668760688,Entregue,2025-05-08 04:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema EDI
+PED000119,35250579648398088196550030000001191878132957,Coleta Realizada,2025-05-07 14:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000119,35250579648398088196550030000001191878132957,Em Transito,2025-05-08 06:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000119,35250579648398088196550030000001191878132957,Chegada Filial Destino,2025-05-08 20:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Marcia Souza - CD Destino
+PED000119,35250579648398088196550030000001191878132957,Saida para Entrega,2025-05-09 13:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Carlos Lima - Motorista
+PED000119,35250579648398088196550030000001191878132957,Tentativa de Entrega Nao Sucedida,2025-05-09 17:00:00,Destinatario ausente no endereco informado.,Ana Ferreira - Atendimento
+PED000119,35250579648398088196550030000001191878132957,Entregue,2025-05-10 14:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema TMS
+PED000120,35250587860724169641550020000001201098692646,Coleta Realizada,2025-06-12 09:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000120,35250587860724169641550020000001201098692646,Em Transito,2025-06-13 00:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000120,35250587860724169641550020000001201098692646,Chegada Filial Destino,2025-06-13 04:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Joao Pereira - Operacoes
+PED000120,35250587860724169641550020000001201098692646,Saida para Entrega,2025-06-13 11:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Marcia Souza - CD Destino
+PED000120,35250587860724169641550020000001201098692646,Entregue,2025-06-14 03:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Carlos Lima - Motorista
+PED000121,31250630305552958919550010000001211808612088,Coleta Realizada,2025-05-14 06:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema TMS
+PED000121,31250630305552958919550010000001211808612088,Em Transito,2025-05-15 00:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000121,31250630305552958919550010000001211808612088,Chegada Filial Destino,2025-05-15 13:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000121,31250630305552958919550010000001211808612088,Saida para Entrega,2025-05-16 06:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Joao Pereira - Operacoes
+PED000121,31250630305552958919550010000001211808612088,Tentativa de Entrega Nao Sucedida,2025-05-17 03:00:00,Destinatario ausente no endereco informado.,Carlos Lima - Motorista
+PED000121,31250630305552958919550010000001211808612088,Entregue,2025-05-18 07:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Sistema TMS
+PED000122,42250554829206775897550010000001221527414719,Coleta Realizada,2025-06-05 22:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000122,42250554829206775897550010000001221527414719,Em Transito,2025-06-06 13:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000123,31250625426121536380550020000001231783431754,Coleta Realizada,2025-06-16 03:00:00,N/A,Sistema EDI
+PED000123,31250625426121536380550020000001231783431754,Em Transito,2025-06-16 17:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000123,31250625426121536380550020000001231783431754,Chegada Filial Destino,2025-06-17 20:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Joao Pereira - Operacoes
+PED000124,41250598525822498584550030000001241831795316,Coleta Realizada,2025-05-24 03:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000124,41250598525822498584550030000001241831795316,Em Transito,2025-05-24 13:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000124,41250598525822498584550030000001241831795316,Chegada Filial Destino,2025-05-25 01:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Carlos Lima - Motorista
+PED000124,41250598525822498584550030000001241831795316,Saida para Entrega,2025-05-25 20:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Joao Pereira - Operacoes
+PED000124,41250598525822498584550030000001241831795316,Tentativa de Entrega Nao Sucedida,2025-05-26 01:00:00,Destinatario ausente no endereco informado.,Marcia Souza - CD Destino
+PED000124,41250598525822498584550030000001241831795316,Entregue,2025-05-26 13:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Ana Ferreira - Atendimento
+PED000125,41250580623909805666550030000001251632978130,Coleta Realizada,2025-06-11 16:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000125,41250580623909805666550030000001251632978130,Em Transito,2025-06-12 05:00:00,Carga em deslocamento para o centro de distribuicao destino.,Carlos Lima - Motorista
+PED000125,41250580623909805666550030000001251632978130,Chegada Filial Destino,2025-06-12 19:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Joao Pereira - Operacoes
+PED000126,42250659862621564877550030000001261967608564,Coleta Realizada,2025-06-06 03:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000126,42250659862621564877550030000001261967608564,Em Transito,2025-06-06 10:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000126,42250659862621564877550030000001261967608564,Chegada Filial Destino,2025-06-07 07:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000127,33250677526837507341550020000001271752273704,Coleta Realizada,2025-06-25 23:00:00,Mercadoria coletada no remetente conforme romaneio.,Carlos Lima - Motorista
+PED000127,33250677526837507341550020000001271752273704,Em Transito,2025-06-26 22:00:00,Carga em deslocamento para o centro de distribuicao destino.,Ana Ferreira - Atendimento
+PED000127,33250677526837507341550020000001271752273704,Chegada Filial Destino,2025-06-27 20:00:00,,Sistema EDI
+PED000127,33250677526837507341550020000001271752273704,Saida para Entrega,2025-06-28 02:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema TMS
+PED000127,33250677526837507341550020000001271752273704,Entregue,2025-06-28 06:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Carlos Lima - Motorista
+PED000128,43250540114073342034550010000001281722867054,Coleta Realizada,2025-05-10 15:00:00,Mercadoria coletada no remetente conforme romaneio.,Marcia Souza - CD Destino
+PED000128,43250540114073342034550010000001281722867054,Em Transito,2025-05-11 09:00:00,Carga em deslocamento para o centro de distribuicao destino.,Joao Pereira - Operacoes
+PED000128,43250540114073342034550010000001281722867054,Chegada Filial Destino,2025-05-12 10:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000128,43250540114073342034550010000001281722867054,Avaria Constatada,2025-05-12 22:00:00,"Avaria identificada na conferencia de recebimento, registrado boletim de ocorrencia interno.",Sistema TMS
+PED000129,33250524100603080356550020000001291443312597,Coleta Realizada,2025-05-22 11:00:00,Mercadoria coletada no remetente conforme romaneio.,Sistema EDI
+PED000129,33250524100603080356550020000001291443312597,Em Transito,2025-05-22 18:00:00,Carga em deslocamento para o centro de distribuicao destino.,Sistema TMS
+PED000129,33250524100603080356550020000001291443312597,Chegada Filial Destino,2025-05-23 13:00:00,"Carga recebida na filial de destino, aguardando roteirizacao.",Sistema TMS
+PED000129,33250524100603080356550020000001291443312597,Saida para Entrega,2025-05-24 01:00:00,Carga roteirizada e saiu para entrega ao destinatario.,Sistema TMS
+PED000129,33250524100603080356550020000001291443312597,Entregue,2025-05-24 19:00:00,Mercadoria entregue e recebida mediante assinatura do destinatario.,Joao Pereira - Operacoes
+PED000130,31250542682872039263550030000001301991448260,Coleta Realizada,2025-05-26 05:00:00,Mercadoria coletada no remetente conforme romaneio.,Joao Pereira - Operacoes
+PED000130,31250542682872039263550030000001301991448260,Em Transito,2025-05-26 19:00:00,Carga em deslocamento para o centro de distribuicao destino.,Marcia Souza - CD Destino
+PED000130,31250542682872039263550030000001301991448260,Chegada Filial Destino,2025-05-27 03:00:00,-,Joao Pereira - Operacoes
+PED000130,31250542682872039263550030000001301991448260,Extravio de Carga,2025-05-28 04:00:00,"Carga nao localizada no centro de distribuicao, aberta investigacao.",Marcia Souza - CD Destino
