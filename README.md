@@ -50,7 +50,7 @@ O SAF foi desenhado para transformar essa análise em um processo replicável, r
 
 ## Captura do Sistema
 
-Abaixo uma visao do painel principal em operacao, com resumo executivo, comparativo por transportadora, filtros, historico e leitura rapida dos indicadores:
+Abaixo uma visão do painel principal em operação, com resumo executivo, comparativo por transportadora, filtros, histórico e leitura rápida dos indicadores:
 
 ![Painel principal do SAF](assets/saf-dashboard.png)
 
